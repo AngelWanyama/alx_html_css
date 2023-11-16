@@ -1,0 +1,1 @@
+This is my first HTML Advanced task and its a new journey for me. I am currently a student at the ALX and learning intro to software Engineering. This is not a perfect project because its my first but I belive I will get there. 
