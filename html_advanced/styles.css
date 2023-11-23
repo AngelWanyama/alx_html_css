@@ -1,6 +1,5 @@
-.main-vid-div
-{
-    border: 1px grey;
+.main-vid-div {
+    border: 1px solid grey;
     display: flex;
     flex-direction: row;
     flex-grow: 1;
