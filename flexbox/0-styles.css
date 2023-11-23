@@ -63,6 +63,7 @@
     <footer class="footer" data-section-theme="dark">
       <div  class="container">
         <div class="row">
+        {display: flex;}
           <div class="col-1-2">
             <img src="images/logo-white.png" alt="Techium logo" width="160" height="40">
             <address class="footer-address">
@@ -107,6 +108,12 @@
         </div>
         <hr>
         <div class="row">
+        content: "";
+   {clear: both;
+   display: table;}
+
+   [class*='col-'] {float: left;}
+        
           <div class="col-1-2">
             <p class="footer-copyright">© 2020 Techium, made with ♥ by students</p>
           </div>
