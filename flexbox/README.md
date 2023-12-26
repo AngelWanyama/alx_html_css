@@ -1,0 +1,1 @@
+This is me trying to take a chance at coding. Still learning though, not their yet
