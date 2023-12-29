@@ -36,7 +36,7 @@
      }
 
     #header-image {
-        background-image: url('images/headphones_hero_1.jpg');
+        background-image: url('headphones_hero_1.jpg');
         width: 100%;
         height: auto;
        
@@ -133,7 +133,7 @@
     }
      
     #result-image {
-        background-image: url("images/headphones_hero_2.jpg");
+        background-image: url("headphones_hero_2.jpg");
         width: 100%;
         height: auto;
     }
